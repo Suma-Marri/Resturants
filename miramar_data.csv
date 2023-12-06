@@ -1,0 +1,1001 @@
+Name,Cuisine,Pricing,Coordinates,Address,Rating
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"bar, meal_takeaway, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"bar, meal_takeaway, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, point_of_interest, food, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, point_of_interest, food, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, point_of_interest, food, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, point_of_interest, food, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, point_of_interest, food, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","restaurant, food, lodging, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, store, restaurant, food, point_of_interest, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, store, food, point_of_interest, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, food, point_of_interest, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"grocery_or_supermarket, meal_delivery, store, restaurant, food, point_of_interest, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, meal_takeaway, bakery, store, food, point_of_interest, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, food, point_of_interest, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, point_of_interest, store, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, point_of_interest, store, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, point_of_interest, store, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, point_of_interest, store, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, point_of_interest, store, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, store, restaurant, point_of_interest, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"bar, meal_takeaway, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, store, meal_takeaway, point_of_interest, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, point_of_interest, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, store, restaurant, point_of_interest, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, store, point_of_interest, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, point_of_interest, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"bar, meal_takeaway, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, store, restaurant, food, point_of_interest, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, store, food, point_of_interest, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, food, point_of_interest, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, restaurant, grocery_or_supermarket, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, meal_takeaway, bakery, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"restaurant, bakery, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, store, restaurant, point_of_interest, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, store, point_of_interest, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, point_of_interest, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, restaurant, grocery_or_supermarket, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, meal_takeaway, bakery, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"restaurant, bakery, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"bar, meal_takeaway, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, restaurant, grocery_or_supermarket, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, meal_takeaway, bakery, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"restaurant, bakery, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, store, point_of_interest, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"restaurant, store, cafe, point_of_interest, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, store, point_of_interest, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, store, point_of_interest, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"restaurant, store, cafe, point_of_interest, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, point_of_interest, store, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, point_of_interest, store, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, point_of_interest, store, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, point_of_interest, store, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, point_of_interest, store, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, store, restaurant, point_of_interest, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"bar, meal_takeaway, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, store, meal_takeaway, point_of_interest, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, point_of_interest, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, store, point_of_interest, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"restaurant, store, cafe, point_of_interest, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, store, point_of_interest, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, store, point_of_interest, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"restaurant, store, cafe, point_of_interest, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, store, restaurant, point_of_interest, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"bar, meal_takeaway, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, store, meal_takeaway, point_of_interest, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, point_of_interest, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, restaurant, grocery_or_supermarket, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, meal_takeaway, bakery, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"restaurant, bakery, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, restaurant, grocery_or_supermarket, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, meal_takeaway, bakery, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"restaurant, bakery, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, store, restaurant, point_of_interest, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, store, point_of_interest, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, point_of_interest, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, store, point_of_interest, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"restaurant, store, cafe, point_of_interest, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, store, point_of_interest, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, store, point_of_interest, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"restaurant, store, cafe, point_of_interest, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, point_of_interest, store, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, point_of_interest, store, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, point_of_interest, store, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, point_of_interest, store, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, point_of_interest, store, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, food, store, point_of_interest, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, store, point_of_interest, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, meal_takeaway, bakery, food, store, point_of_interest, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, food, store, point_of_interest, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, store, point_of_interest, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"grocery_or_supermarket, meal_delivery, store, restaurant, food, point_of_interest, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, meal_takeaway, bakery, store, food, point_of_interest, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, food, point_of_interest, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, point_of_interest, store, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, point_of_interest, store, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, point_of_interest, store, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, point_of_interest, store, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, point_of_interest, store, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, store, point_of_interest, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"restaurant, store, cafe, point_of_interest, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, store, point_of_interest, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, store, point_of_interest, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"restaurant, store, cafe, point_of_interest, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, point_of_interest, food, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, point_of_interest, food, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, point_of_interest, food, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, point_of_interest, food, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, point_of_interest, food, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, point_of_interest, food, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"bar, meal_takeaway, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, point_of_interest, food, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, point_of_interest, food, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, point_of_interest, food, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, point_of_interest, food, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, food, store, point_of_interest, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, store, point_of_interest, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, meal_takeaway, bakery, food, store, point_of_interest, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, food, store, point_of_interest, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, store, point_of_interest, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, point_of_interest, food, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, point_of_interest, food, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, point_of_interest, food, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, point_of_interest, food, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, point_of_interest, food, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, point_of_interest, food, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, point_of_interest, food, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, point_of_interest, food, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, point_of_interest, food, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, point_of_interest, food, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, restaurant, grocery_or_supermarket, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, meal_takeaway, bakery, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"restaurant, bakery, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","restaurant, food, lodging, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, store, restaurant, food, point_of_interest, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, store, food, point_of_interest, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, food, point_of_interest, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"grocery_or_supermarket, meal_delivery, store, restaurant, food, point_of_interest, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, meal_takeaway, bakery, store, food, point_of_interest, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, food, point_of_interest, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, restaurant, grocery_or_supermarket, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, meal_takeaway, bakery, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"restaurant, bakery, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","restaurant, food, lodging, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, store, restaurant, food, point_of_interest, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, store, food, point_of_interest, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, food, point_of_interest, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, store, restaurant, food, point_of_interest, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, store, food, point_of_interest, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, food, point_of_interest, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, food, point_of_interest, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, food, point_of_interest, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, food, point_of_interest, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, food, point_of_interest, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, restaurant, grocery_or_supermarket, food, point_of_interest, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, food, point_of_interest, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, food, point_of_interest, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, food, point_of_interest, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, food, point_of_interest, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, food, point_of_interest, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, food, point_of_interest, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, meal_takeaway, bakery, food, point_of_interest, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"restaurant, bakery, food, point_of_interest, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, food, point_of_interest, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, food, point_of_interest, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, food, point_of_interest, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, food, point_of_interest, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, store, restaurant, point_of_interest, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, store, point_of_interest, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, point_of_interest, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, store, restaurant, point_of_interest, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"bar, meal_takeaway, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, store, meal_takeaway, point_of_interest, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, point_of_interest, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, store, restaurant, point_of_interest, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"bar, meal_takeaway, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, store, meal_takeaway, point_of_interest, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, store, restaurant, point_of_interest, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, store, restaurant, point_of_interest, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, point_of_interest, food, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, point_of_interest, food, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, point_of_interest, food, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, point_of_interest, food, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, point_of_interest, food, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, store, point_of_interest, food, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"restaurant, store, cafe, point_of_interest, food, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, store, point_of_interest, food, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, store, point_of_interest, food, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"restaurant, store, cafe, point_of_interest, food, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
+"Grand Palms Hotel, Spa and Golf Resort","lodging, restaurant, point_of_interest, food, establishment",,"26.0053595,-80.3508245","110 Grand Palms Drive, Pembroke Pines",3.4
+Bokamper's Sports Bar & Grill,"bar, restaurant, point_of_interest, food, establishment",2,"25.9826732,-80.3531189","15500 Southwest 29th Street, Miramar",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9804061,-80.3369274","14341 Miramar Parkway Store No B-5, Miramar",3.6
+Sbarro,"restaurant, point_of_interest, food, establishment",1,"26.0112116,-80.3044142","11401 Pines Boulevard, Pembroke Pines",
+The Honey Baked Ham Company,"meal_delivery, grocery_or_supermarket, restaurant, point_of_interest, food, store, establishment",2,"26.0071393,-80.31863349999999","12636 Pines Boulevard, Pembroke Pines",4
+Nami Sushi,"restaurant, point_of_interest, food, establishment",2,"25.979583,-80.317054","12711 Miramar Parkway, Miramar",4.4
+Olive Garden Italian Restaurant,"meal_takeaway, bar, restaurant, point_of_interest, food, establishment",2,"26.00837599999999,-80.300862","11425 Pines Boulevard, Pembroke Pines",4.2
+RA Sushi Bar Restaurant,"restaurant, point_of_interest, food, establishment",2,"26.00632,-80.3363421","201 Southwest 145th Terrace, Pembroke Pines",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.94318789999999,-80.3404695","8527 Northwest 186th Street B18, Hialeah",3.9
+Subway,"meal_takeaway, restaurant, point_of_interest, food, establishment",1,"25.9807176,-80.37521","17137 Miramar Parkway Suite A - 7, Miramar",3.2
+Benihana,"restaurant, point_of_interest, food, establishment",3,"25.9805656,-80.3545953","3261 Southwest 160th Avenue, Miramar",4.1
+Brimstone Woodfire Grill,"bar, restaurant, point_of_interest, food, establishment",3,"26.0042899,-80.3381742","14575 Southwest 5th Street, Pembroke Pines",4.3
+Starbucks,"cafe, restaurant, point_of_interest, food, store, establishment",2,"26.0068626,-80.355794","15810 Pines Boulevard, Pembroke Pines",4.4
+BJ's Restaurant & Brewhouse,"restaurant, bar, point_of_interest, food, establishment",2,"26.0070741,-80.30954369999999","12100 Pines Boulevard Ste C-1, Pembroke Pines",4.1
+The Cheesecake Factory,"restaurant, bakery, meal_takeaway, point_of_interest, food, store, establishment",2,"26.0043366,-80.3365853","14559 Southwest 5th Street Suite 4060, Pembroke Pines",4.3
+Menchie's Frozen Yogurt,"bakery, restaurant, point_of_interest, food, store, establishment",1,"26.006802,-80.34593","14814 Pines Boulevard, Pembroke Pines",4.2
+Panda Express,"restaurant, point_of_interest, food, establishment",1,"25.9778764,-80.3104865","12332 Miramar Parkway, Miramar",4
+Chick-fil-A,"restaurant, point_of_interest, food, establishment",1,"26.0084747,-80.3103843","12203 Pines Blvd (Outside Mall, Pembroke Pines",4.6
+IHOP,"restaurant, point_of_interest, food, establishment",1,"25.9413709,-80.32059249999999","7450 Northwest 186th Street, Hialeah",4.2
+Starbucks,"cafe, restaurant, point_of_interest, food, store, establishment",2,"25.97915799999999,-80.341494","14673 Miramar Parkway, Miramar",4.1
